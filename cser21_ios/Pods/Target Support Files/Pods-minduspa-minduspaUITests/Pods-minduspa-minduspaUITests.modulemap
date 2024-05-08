@@ -1,0 +1,6 @@
+framework module Pods_minduspa_minduspaUITests {
+  umbrella header "Pods-minduspa-minduspaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
